@@ -28,7 +28,7 @@
 
 <!-- tocstop -->
 
-## Node.js sample app on OpenShift! (update test)
+## Node.js sample app on OpenShift! (update test 5)
 -----------------
 
 This example will serve a welcome page and the current hit count as stored in a database.
